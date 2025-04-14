@@ -5,5 +5,4 @@ award:
   emoji: 😀
 image: pwncollege/challenge-simple
 modules:
-  - id: hello
   - id: world
